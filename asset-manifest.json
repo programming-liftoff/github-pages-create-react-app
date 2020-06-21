@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-pages-create-react-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/github-pages-create-react-app/static/js/main.00d27f48.chunk.js",
+    "main.js.map": "/github-pages-create-react-app/static/js/main.00d27f48.chunk.js.map",
+    "runtime-main.js": "/github-pages-create-react-app/static/js/runtime-main.a2f510c8.js",
+    "runtime-main.js.map": "/github-pages-create-react-app/static/js/runtime-main.a2f510c8.js.map",
+    "static/js/2.be7e122f.chunk.js": "/github-pages-create-react-app/static/js/2.be7e122f.chunk.js",
+    "static/js/2.be7e122f.chunk.js.map": "/github-pages-create-react-app/static/js/2.be7e122f.chunk.js.map",
+    "index.html": "/github-pages-create-react-app/index.html",
+    "precache-manifest.fb045495ab4b34d05e50fb554fab17b4.js": "/github-pages-create-react-app/precache-manifest.fb045495ab4b34d05e50fb554fab17b4.js",
+    "service-worker.js": "/github-pages-create-react-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/github-pages-create-react-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.be7e122f.chunk.js.LICENSE.txt": "/github-pages-create-react-app/static/js/2.be7e122f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github-pages-create-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2f510c8.js",
+    "static/js/2.be7e122f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.00d27f48.chunk.js"
+  ]
+}
